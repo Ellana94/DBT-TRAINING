@@ -1,0 +1,19 @@
+version : 1
+
+sources : 
+  - name: travel_bc
+    database:
+    schema: 
+    tables:
+      - name: car_bookings
+        description:
+      - name: car_rental_companies
+        description:
+      - name: hotel_bookings
+        description:
+      - name: hotel_rooms
+        description:
+      - name: hotels
+        description:
+      - name: users
+        description:
