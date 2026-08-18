@@ -3,7 +3,7 @@ version : 1
 sources : 
   - name: travel_bc
     database: carteldeladata
-    schema: travel_bc
+    schema: modelisation_sources
     tables:
       - name: car_bookings
       - name: car_rental_companies
